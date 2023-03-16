@@ -1,0 +1,15 @@
+a {
+    background-color: #C0c0c0;
+    color: white;
+    display: inline;
+    width: 200px; /*no effect*/
+    font-size:x-large;
+    font-family:fantasy;
+    float: right ;
+}
+
+div {
+    background-image: url("https://cdn.lowgif.com/medium/04ca91236317d3b4-.gif");
+    background-size: cover;
+    background-position: bottom;
+}
